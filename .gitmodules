@@ -1,0 +1,3 @@
+[submodule "libs/embedded-uart-sps"]
+	path = libs/embedded-uart-sps
+	url = https://github.com/Sensirion/embedded-uart-sps.git
